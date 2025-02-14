@@ -1,8 +1,8 @@
-r8168 (8.055.00-1) UNRELEASED; urgency=medium
+r8168 (8.055.00-1) unstable; urgency=medium
 
   * New upstream release 8.055.00 (2025-02-03).
 
- -- Andreas Beckmann <anbe@debian.org>  Fri, 14 Feb 2025 11:06:30 +0100
+ -- Andreas Beckmann <anbe@debian.org>  Fri, 14 Feb 2025 15:06:05 +0100
 
 r8168 (8.054.00-1) unstable; urgency=medium
 
